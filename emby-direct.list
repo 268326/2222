@@ -14,3 +14,6 @@ DOMAIN,jz.mcjoker.xyz
 IP-CIDR,36.137.22.140/32,DIRECT // 国内中转
 #飞越彩虹
 DOMAIN,7777777.buzz
+#土拨鼠
+DOMAIN,v.20120714.xyz
+DOMAIN,if.20120714.xyz  //infuse专用
