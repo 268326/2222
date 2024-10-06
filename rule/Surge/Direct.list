@@ -1,0 +1,9 @@
+IP-CIDR,20.2.153.241/32,no-resolve // azure-hk
+IP-CIDR,152.42.210.159/32,no-resolve // Do-SG
+IP-CIDR,20.41.87.186/32,no-resolve // Azure-KR
+IP-CIDR,174.138.79.46/32,no-resolve // Do-US
+IP-CIDR,181.215.6.245/32,no-resolve // Alice-HK
+IP-CIDR,8.219.234.18/32,no-resolve // 阿里云
+DOMAIN-SUFFIX,220322.best // Added for: ai.220322.best:443
+DOMAIN-SUFFIX,alicenetworks.net // Added for: alicenetworks.net:443
+IP-CIDR6,2605:6400:5322:8016:0:1:5717:4EE5/128 // Added for: [2605:6400:5322:8016:0:1:5717:4EE5]:22
