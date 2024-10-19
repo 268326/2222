@@ -7,8 +7,7 @@ DOMAIN,pilipili.club
 DOMAIN,emby.agon.cf
 #nyamedia
 DOMAIN,emby.bangumi.ca 
-#lyrebird
-DOMAIN,direct.lyrebirdemby.com
+
 #lyrebird
 DOMAIN,cdn.lyrebirdemby.com
 #飞越彩虹
@@ -28,8 +27,6 @@ DOMAIN,stream.ntrrr.top
 #垃圾影音
 DOMAIN,free.xmsl.org
 DOMAIN,cf.xmsl.org
-#普拉斯
-DOMAIN,servers.xeton
 #卡戎
 DOMAIN,play.charontv.com
 #尘烬
@@ -46,5 +43,10 @@ DOMAIN,us.zerodisk.site
 DOMAIN,888.881075.xyz
 #叔服
 DOMAIN,emby3.mcjoker.xyz
-#江湖
-DOMAIN,film.reddust.link
+#misakaf
+DOMAIN-SUFFIX,emby.aca.best,Emby
+DOMAIN-SUFFIX,stream3.misakaf.org,Emby
+
+
+#自建
+IP-CIDR,104.152.210.136/32,Emby,no-resolve  
