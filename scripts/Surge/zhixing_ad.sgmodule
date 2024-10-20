@@ -1,0 +1,11 @@
+#!name=智行去广告
+#!desc=去开屏与个人页面简化
+
+[Map Local]
+^https:\/\/dimg04\.c-ctrip\.com\/images data-type=text data="{}" status-code=200
+^https:\/\/pages\.suanya\.com\/webapp data-type=text data="{}" status-code=200
+^https:\/\/pages\.suanya\.com\/preload\.html\? data-type=text data="{}" status-code=200
+^https:\/\/images3\.c-ctrip\.com\/ztrip\/train_tong\/my\/vip data-type=text data="{}" status-code=200
+
+[MITM]
+hostname = %APPEND% images3.c-ctrip.com, pages.suanya.com, dimg04.c-ctrip.com

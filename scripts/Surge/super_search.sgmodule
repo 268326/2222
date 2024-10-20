@@ -1,0 +1,64 @@
+#!name=super_search
+#!desc=super-Search
+#safari默认引擎为bing
+
+[URL Rewrite]
+# p    xxx （快捷指令）
+^https?:\/\/(www\.)?bing\.com\/\?q=p\+([^&]+).+ shortcuts://run-shortcut?name=Passwords&input=$1 302
+# gaod  xxx （高德地图）
+^https?:\/\/(www\.)?bing\.com\/\?q=gaod\+([^&]+).+ iosamap://poi?sourceApplication=applicationName&name=%s 302
+# xhs   xxxx（小红书）
+^https?:\/\/(www\.)?bing\.com\/\?q=xhs\+([^&]+).+ xhsdiscover://search/result?keyword=$1 302
+# db    xxx (豆瓣)
+^https?:\/\/(www\.)?bing\.com\/\?q=db\+([^&]+).+ https://m.douban.com/search?query=$1 302
+^https?:\/\/(www\.)?bing\.com\/\?q=([^+]+)\+db.+ https://m.douban.com/search?query=$1 302
+# zh    xxx (知乎)
+^https?:\/\/(www\.)?bing\.com\/\?q=zh\+([^&]+).+ http://www.zhihu.com/search?q=$1 302
+^https?:\/\/(www\.)?bing\.com\/\?q=([^+]+)\+zh.+ http://www.zhihu.com/search?q=$1 302
+# wx    xxx (微信公众号)
+^https?:\/\/(www\.)?bing\.com\/\?q=wx\+([^&]+).+ https://weixin.sogou.com/weixinwap?query=$1 302
+^https?:\/\/(www\.)?bing\.com\/\?q=([^+]+)\+wx.+ https://weixin.sogou.com/weixinwap?query=$1 302
+# tw    xxx (Twitter)
+^https?:\/\/(www\.)?bing\.com\/\?q=tw\+([^&]+).+ https://twitter.com/search?q=$1 302
+^https?:\/\/(www\.)?bing\.com\/\?q=([^+]+)\+tw.+ https://twitter.com/search?q=$1 302
+# gh    xxx (GitHub)
+^https?:\/\/(www\.)?bing\.com\/\?q=gh\+([^&]+).+ https://github.com/search?q=$1 302
+^https?:\/\/(www\.)?bing\.com\/\?q=([^+]+)\+gh.+ https://github.com/search?q=$1 302
+# gu    xxx (GitHub User)
+^https?:\/\/(www\.)?bing\.com\/\?q=gu\+([^&]+).+ https://github.com/search?q=$1&type=users 302
+^https?:\/\/(www\.)?bing\.com\/\?q=([^+]+)\+gu.+ https://github.com/search?q=$1&type=users 302
+# gc    xxx (GitHub Code)
+^https?:\/\/(www\.)?bing\.com\/\?q=gc\+([^&]+).+ https://github.com/search?o=desc&q=$1&s=indexed&type=Code 302
+^https?:\/\/(www\.)?bing\.com\/\?q=([^+]+)\+gc.+ https://github.com/search?o=desc&q=$1&s=indexed&type=Code 302
+# jd  xxx (京东)
+^https?:\/\/(www\.)?bing\.com\/\?q=jd\+([^&]+).+ openapp.jdmobile://virtual?params={"des":"productList","keyWord":"$1","from":"search","category":"jump"} 302
+^https?:\/\/(www\.)?bing\.com\/\?q=([^+]+)\+jd.+ openapp.jdmobile://virtual?params={"des":"productList","keyWord":"$1","from":"search","category":"jump"} 302
+# tb  xxx (淘宝)
+^https?:\/\/(www\.)?bing\.com\/\?q=tb\+([^&]+).+ taobao://s.taobao.com?q=$1 302
+^https?:\/\/(www\.)?bing\.com\/\?q=([^+]+)\+tb.+ taobao://s.taobao.com?q=$1 302
+# ytb  xxx (YouTube)
+^https?:\/\/(www\.)?bing\.com\/\?q=ytb\+([^&]+).+ https://www.youtube.com/results?search_query=$1 302
+^https?:\/\/(www\.)?bing\.com\/\?q=([^+]+)\+ytb.+ https://www.youtube.com/results?search_query=$1 302
+# bl xxx (哔哩哔哩)
+^https?:\/\/(www\.)?bing\.com\/\?q=bl\+([^&]+).+ https://m.bilibili.com/search?keyword=$1 302
+^https?:\/\/(www\.)?bing\.com\/\?q=([^+]+)\+bl.+ https://m.bilibili.com/search?keyword=$1 302
+# bd  xxx (百度搜索)
+^https?:\/\/(www\.)?bing\.com\/\?q=bd\+([^&]+).+ https://www.baidu.com/s?wd=$1 302
+^https?:\/\/(www\.)?bing\.com\/\?q=((.(?!bd))+)\+bd.+ https://www.baidu.com/s?wd=$1 302
+# wk  xxx (维基搜索)
+^https?:\/\/(www\.)?bing\.com\/\?q=wk\+([^&]+).+ https://zh.wikipedia.org/wiki/$1 302
+^https?:\/\/(www\.)?bing\.com\/\?q=([^+]+)\+wk.+ https://zh.wikipedia.org/wiki/$1 302
+# yh  xxx (油猴搜索)
+^https?:\/\/(www\.)?bing\.com\/\?q=yh\+([^&]+).+ https://greasyfork.org/zh-CN/scripts?q=$1 302
+^https?:\/\/(www\.)?bing\.com\/\?q=([^+]+)\+yh.+ https://greasyfork.org/zh-CN/scripts?q=$1 302
+# gi  xxx (Google 图片)
+^https?:\/\/(www\.)?bing\.com\/\?q=gi\+([^&]+).+ https://www.google.com/search?&tbm=isch&q=$1 302
+^https?:\/\/(www\.)?bing\.com\/\?q=([^+]+)\+gi.+ https://www.google.com/search?&tbm=isch&q=$1 302
+#     xxx （无指令默认为 Google）
+^https?:\/\/(www\.)?bing\.com\/\?q=([^&]+).+ https://www.google.com/search?q=$1 302
+# by  xxx (bing 搜索)
+^https?:\/\/(www\.)?bing\.com\/\?q=gg\+([^&]+).+ https://www.bing.com/search?q=$1 302
+^https?:\/\/(www\.)?bing\.com\/\?q=([^+]+)\+gg.+ https://www.bing.com/search?q=$1 302
+
+[MITM]
+hostname = %APPEND% www.bing.com

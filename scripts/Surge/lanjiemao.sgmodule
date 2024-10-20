@@ -1,0 +1,8 @@
+#!name=拦截猫
+#!desc=拦截猫
+
+[Script]
+.link/ = type=http-response, pattern=^https?:\/\/buy\.itunes\.apple\.com\/verifyReceipt$, script-path=https://raw.githubusercontent.com/268326/1111/main/scripts/Qx/lanjiemao.js, requires-body=true, max-size=-1, timeout=60
+
+[MITM]
+hostname = %APPEND% buy.itunes.apple.com

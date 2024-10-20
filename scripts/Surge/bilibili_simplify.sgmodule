@@ -1,0 +1,15 @@
+#!name=b站精简与跟踪参数移除
+#!desc=
+[Rule]
+#哔哩哔哩精简
+DOMAIN,upos-sz-staticcos.bilivideo.com,REJECT
+[URL Rewrite]
+# 哔哩哔哩精简
+(?=.*(hdslb\.com.*(\.zip|\.mp4)))^((?!(hdslb\.com\/bfs\/app-static\/)).)*$ - reject
+(?=resource\?resourceUrl|upos\-sz\-staticcos) - reject
+# 移除b站直播间链接跟踪参数
+(^https:\/\/live\.bilibili\.com\/\d+)((\?broadcast_type.*)|(\?launch_id.*)) $1 302
+# 移除b站视频链接跟踪参数
+(^https:\/\/(www|m)\.bilibili\.com\/video\/BV\w{10})((\/\?buvid=.*)|(\/\?share_source=.*)) $1 302
+[MIT]
+hostname = %APPEND% upos-sz-staticcos.bilivideo.com, hdslb.com, live.bilibili.com, bilibili.com

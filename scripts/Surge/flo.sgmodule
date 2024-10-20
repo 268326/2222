@@ -1,0 +1,8 @@
+#!name=flo
+#!desc=
+
+[Script]
+Flo = type=http-response, pattern=^https:\/\/api\.owhealth\.com\/subscriptions\/v1\/apple, script-path=https://raw.githubusercontent.com/268326/1111/main/scripts/Qx/Flo.js, requires-body=true, max-size=-1, timeout=60
+
+[MITM]
+hostname = %APPEND% api.owhealth.com

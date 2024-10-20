@@ -1,0 +1,13 @@
+#!name=ChatGPT接口
+#!desc=替换 api.openai.com 为 自定义接口, 添加 key
+
+[URL Rewrite]
+^https:\/\/api.openai.com\/v1 https:\/\/burn\.hair/v1 header
+
+
+#[Header Rewrite]
+#http-request ^https:\/\/api.openai.com\/v1 header-del Authorization
+#http-request ^https:\/\/api.openai.com\/v1 header-add Authorization "asdcA"
+
+[MITM]
+hostname = %APPEND%, api.openai.com
