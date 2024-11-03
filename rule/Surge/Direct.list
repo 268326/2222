@@ -1,10 +1,2 @@
-IP-CIDR,154.17.239.29/32,no-resolve // dmit_us
-IP-CIDR,20.41.87.186/32,no-resolve // Azure-KR
-IP-CIDR,8.210.57.43/32,no-resolve // Claw_HK
-IP-CIDR,57.155.126.53/32,no-resolve //azure_sg
-IP-CIDR,181.215.6.245/32,no-resolve // Alice-HK
-IP-CIDR,8.219.234.18/32,no-resolve // 阿里云
-IP-CIDR,110.40.75.136/32,no-resolve // 鸡仔
-DOMAIN-SUFFIX,220322.best // Added for: ai.220322.best:443
+DOMAIN-SUFFIX,220322.best // Added for: 220322.best
 DOMAIN-SUFFIX,alicenetworks.net // Added for: alicenetworks.net:443
-IP-CIDR6,2605:6400:5322:8016:0:1:5717:4EE5/128 // Added for: [2605:6400:5322:8016:0:1:5717:4EE5]:22
