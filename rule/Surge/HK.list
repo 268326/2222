@@ -1,1 +1,10 @@
-DOMAIN-SUFFIX,perplexity.ai // Added for: www.perplexity.ai:443
+# Perplexity
+DOMAIN-SUFFIX, pplx.ai
+DOMAIN-SUFFIX, perplexity.ai
+DOMAIN-SUFFIX, perplexity.com
+# Copilot
+DOMAIN, api.githubcopilot.com
+DOMAIN, copilot-proxy.githubusercontent.com
+DOMAIN, copilot.microsoft.com
+DOMAIN, sydney.bing.com
+DOMAIN, www.bing.com
