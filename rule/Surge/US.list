@@ -1,4 +1,4 @@
 DOMAIN-SUFFIX,monica.im
-DOMAIN-SUFFIX,perplexity.ai // Added for: www.perplexity.ai:443
 DOMAIN-SUFFIX,oaiofazure22api.openai.azure.com // Added for: https://oaiofazure22api.openai.azure.com/openai/deployments/gpt4omini/chat/completions?api-version=2024-02-01
 DOMAIN-SUFFIX,app.pokepay.cc // Added for: app.pokepay.cc:443
+DOMAIN-SUFFIX,imgur.com // Added for: i.imgur.com:443
