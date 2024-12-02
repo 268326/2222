@@ -47,4 +47,6 @@ DOMAIN,emby3.mcjoker.xyz
 DOMAIN-SUFFIX,aca.misakaf.org,Emby
 DOMAIN-SUFFIX,stream3.misakaf.org,Emby
 
+#星云
+DOMAIN,emby.nebula-media.org
  
