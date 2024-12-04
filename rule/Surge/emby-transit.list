@@ -25,8 +25,8 @@ DOMAIN,cf2.jmsuper.com
 #ntr
 DOMAIN,stream.ntrrr.top
 #垃圾影音
-DOMAIN,free.xmsl.org
-DOMAIN,cf.xmsl.org
+DOMAIN-SUFFIX,xmsl.org
+
 #卡戎
 DOMAIN,play.charontv.com
 #尘烬
