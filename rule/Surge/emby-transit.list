@@ -50,4 +50,6 @@ DOMAIN-SUFFIX,stream3.misakaf.org,Emby
 
 #星云
 DOMAIN,emby.nebula-media.org
- 
+
+#hka
+DOMAIN-SUFFIX,aliz.work
