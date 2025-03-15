@@ -20,8 +20,10 @@ hostname = appv2.filmix.com.cn
 
 var chxm1023 = JSON.parse($response.body);
 
+chxm1023.first_vip_start_time = "2023-09-09T09:09:09+09:00";
 chxm1023.is_vip = true;
 chxm1023.vip_start_time = "2023-09-09T09:09:09+09:00";
 chxm1023.vip_end_time = "2099-09-09T09:09:09+09:00";
+chxm1023.vip_level = 1;
 
 $done({body : JSON.stringify(chxm1023)});
