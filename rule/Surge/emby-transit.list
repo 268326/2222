@@ -1,66 +1,65 @@
 #paul
-DOMAIN,emby.imetyou.top
-DOMAIN,fk.imetyou.top
+DOMAIN,cf.imetyou.top
+
 #pilipili
-DOMAIN-SUFFIX,emby-direct.pilipiliultra.com
+DOMAIN-SUFFIX,pilipiliultra.com
+
 #私人影院
 DOMAIN,emby.agon.cf
+
 #nyamedia
 DOMAIN,emby.bangumi.ca 
+
 #纸片人小站
 DOMAIN,embyplus.org
 
 #lyrebird
 DOMAIN,cdn.lyrebirdemby.com
+IP-CIDR,188.172.228.65/32,DIRECT,no-resolve
+
+
 #飞越彩虹
 DOMAIN,581658.best
+    
 #HeiSi
 DOMAIN,i109.com
-#餐厅
-DOMAIN,emby-mica-us-v1.mius.uk
-DOMAIN,emby-micax-ca-v2.mius.uk
+
 #土拨鼠
 DOMAIN,v.20120714.xyz
 DOMAIN,if.20120714.xyz  //infuse专用
 
 #ntr
 DOMAIN,stream.ntrrr.top
+
 #垃圾影音
 DOMAIN-SUFFIX,xmsl.org
 
 #卡戎
 DOMAIN,play.charontv.com
-#尘烬
-DOMAIN,free.emby.eu.org
-#TreeDiagram
-DOMAIN,789.123456.al
-#custom(二次元emby)
-DOMAIN,media.nijigem.by
+
 #放映厅
 DOMAIN,emby.9191001.xyz
-#田小瑞
-DOMAIN,us.zerodisk.site
-#小新影视
-DOMAIN,888.881075.xyz
+
 #叔服
 DOMAIN,emby3.mcjoker.xyz
-#misakaf
-DOMAIN-SUFFIX,aca.misakaf.org,Emby
-DOMAIN-SUFFIX,stream3.misakaf.org,Emby
+
 
 #星云
 DOMAIN,emby.nebula-media.org
 
-#hka
-DOMAIN-SUFFIX,aliz.work
-
 #起点
 DOMAIN,free.28.al
+
 #鸽巢
 DOMAIN,mediacf.doven.tv
 
-#惊蛰
+#惊蛰-首尔甲骨文
 DOMAIN,emby.jingzhe.pro
 
-#bibi
-DOMAIN,beebi.org
+#hka-洛杉矶/brandergroup.net
+DOMAIN,hka-emby3.aliz.work
+
+#终点站
+#DOMAIN-SUFFIX,term.wtf
+#DOMAIN-SUFFIX,emby.wtf
+
