@@ -15,3 +15,6 @@ IP-CIDR,193.122.114.13/32,DIRECT,no-resolve
 DOMAIN,media.nijigem.by
 DOMAIN,ct.cdn.bgp.yt
 DOMAIN,cu.cdn.bgp.yt
+
+#探花
+DOMAIN,tanhuatv.site
