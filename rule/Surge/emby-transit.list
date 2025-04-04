@@ -60,6 +60,9 @@ DOMAIN,emby.jingzhe.pro
 DOMAIN,hka-emby3.aliz.work
 
 #终点站
-#DOMAIN-SUFFIX,term.wtf
-#DOMAIN-SUFFIX,emby.wtf
+DOMAIN-SUFFIX,term.wtf
+DOMAIN-SUFFIX,emby.wtf
+
+#探花
+DOMAIN,tanhuatv.site       
 
