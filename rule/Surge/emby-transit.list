@@ -20,6 +20,7 @@ IP-CIDR,188.172.228.65/32,DIRECT,no-resolve
 
 #飞越彩虹
 DOMAIN,581658.best
+IP-CIDR,193.122.114.13/32,DIRECT,no-resolve
     
 #HeiSi
 DOMAIN,i109.com
