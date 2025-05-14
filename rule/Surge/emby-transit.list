@@ -13,10 +13,6 @@ DOMAIN,emby.bangumi.ca 
 #纸片人小站
 DOMAIN,embyplus.org
 
-#lyrebird
-DOMAIN,cdn.lyrebirdemby.com
-IP-CIDR,188.172.228.65/32,DIRECT,no-resolve
-
 
 #飞越彩虹
 DOMAIN,581658.best
@@ -68,4 +64,7 @@ DOMAIN-SUFFIX,emby.wtf
 DOMAIN,tanhuatv.site
 
 #猫影
-DOMAIN-SUFFIX,frre.me  
+DOMAIN-SUFFIX,frre.me
+
+#叔服
+DOMAIN,jz.mcjoker.xyz

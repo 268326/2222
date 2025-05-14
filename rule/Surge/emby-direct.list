@@ -1,8 +1,7 @@
 #NMemby
 DOMAIN,film.ohhhh.org
 
-#叔服
-DOMAIN,jz.mcjoker.xyz
+
 
 #土拨鼠
 DOMAIN,cn.20120714.xyz
@@ -15,3 +14,8 @@ DOMAIN,media.nijigem.by
 DOMAIN,ct.cdn.bgp.yt
 DOMAIN,cu.cdn.bgp.yt
 
+#lyrebird
+DOMAIN,cdn.lyrebirdemby.com
+IP-CIDR,188.172.228.65/32,DIRECT,no-resolve
+#BB
+DOMAIN,beebi.org
