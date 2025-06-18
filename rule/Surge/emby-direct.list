@@ -14,5 +14,3 @@ DOMAIN,cu.cdn.bgp.yt
 #lyrebird
 DOMAIN,cdn.lyrebirdemby.com
 IP-CIDR,188.172.228.65/32,DIRECT,no-resolve
-#BB
-DOMAIN,beebi.org
