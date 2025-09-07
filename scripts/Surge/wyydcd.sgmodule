@@ -1,6 +1,6 @@
 #!name=网易有道词典
 #!desc=网易有道词典
-
+#!category=去广告
 [Map Local]
 # 翻译   广告均由 安妮 分享 
 ^https:\/\/dict\.youdao\.com\/course\/tab\/translateTab data-type=text data="{}" status-code=200

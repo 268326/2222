@@ -1,6 +1,6 @@
 #!name=trakt去广告
 #!desc=去除trakt_app广告
-
+#!category=去广告
 [MITM]
 hostname = %APPEND% apiz.trakt.tv
 
