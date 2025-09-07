@@ -1,0 +1,10 @@
+#!name=QQreader
+#!desc=QQreader
+
+[Script]
+QQ阅读获取Cookies = type=http-request, pattern=^https:\/\/iostgw\.reader\.qq\.com\/v7_6_6\/userinfo\?, script-path=https://raw.githubusercontent.com/268326/2222/main/scripts/Qx/qqreader.js, timeout=10
+
+QQ阅读 = type=cron, cronexp=30 6 * * *, script-path=https://raw.githubusercontent.com/268326/2222/main/scripts/Qx/qqreader.js, timeout=3600
+
+[MITM]
+hostname = %APPEND% *.reader.qq.com
