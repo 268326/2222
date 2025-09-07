@@ -1,0 +1,20 @@
+#!name=WyyCrack
+#!desc=WyyCrack
+
+[Script]
+WyyCrack = type=http-request, pattern=^https:\/\/interface3?\.music\.163\.com\/eapi\/playermode\/, script-path=https://raw.githubusercontent.com/268326/2222/main/scripts/Qx/wyycrack.js, timeout=60
+
+WyyCrack = type=http-request, pattern=^https:\/\/interface3?\.music\.163\.com\/eapi\/search\/complex\/(page|rec\/song\/get), script-path=https://raw.githubusercontent.com/268326/2222/main/scripts/Qx/wyycrack.js, timeout=60
+
+WyyCrack = type=http-request, pattern=^https:\/\/interface3?\.music\.163\.com\/eapi\/song\/(chorus|enhance\/|play\/|type\/detail\/get), script-path=https://raw.githubusercontent.com/268326/2222/main/scripts/Qx/wyycrack.js, timeout=60
+
+WyyCrack = type=http-request, pattern=^https:\/\/interface3?\.music\.163\.com\/eapi\/(v1\/artist\/top\/song|v3\/discovery\/recommend\/songs), script-path=https://raw.githubusercontent.com/268326/2222/main/scripts/Qx/wyycrack.js, timeout=60
+
+WyyCrack = type=http-request, pattern=^https:\/\/interface3?\.music\.163\.com\/eapi\/vipnewcenter\/app\/resource\/newaccountpage, script-path=https://raw.githubusercontent.com/268326/2222/main/scripts/Qx/wyycrack.js, timeout=60
+
+WyyCrack = type=http-request, pattern=^https?:\/\/interface3?\.music\.163\.com\/eapi\/(homepage\/|v6\/)?playlist\/, script-path=https://raw.githubusercontent.com/268326/2222/main/scripts/Qx/wyycrack.js, timeout=60
+
+WyyCrack = type=http-request, pattern=^https?:\/\/interface3?\.music\.163\.com\/eapi\/vipauth\/app\/auth\/(soundquality\/)?query, script-path=https://raw.githubusercontent.com/268326/2222/main/scripts/Qx/wyycrack.js, timeout=60
+
+[MITM]
+hostname = %APPEND% *.music.163.com
