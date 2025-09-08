@@ -1,8 +1,8 @@
 # 手动规则: 以下规则优先级最高 不参与规则数量统计
 DOMAIN-SUFFIX,xzy
 
-# 更新时间: 2025/9/9 04:26:38
-# 规则数量：当前共 25 条规则
+# 更新时间: 2025/9/9 04:53:43
+# 规则数量：当前共 26 条规则
 
 DOMAIN-SUFFIX,alhapi.com
 DOMAIN-SUFFIX,anyun.org
@@ -24,6 +24,7 @@ DOMAIN-SUFFIX,smadex.com
 DOMAIN-SUFFIX,sprig.com
 DOMAIN-SUFFIX,stripe.com
 DOMAIN-SUFFIX,swiftgram.app
+DOMAIN-SUFFIX,telemetrydeck.com
 DOMAIN-SUFFIX,v2cross.com
 IP-CIDR,108.59.0.0/20
 IP-CIDR,162.159.200.0/24
