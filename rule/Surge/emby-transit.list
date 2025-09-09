@@ -17,13 +17,6 @@ DOMAIN-KEYWORD,embyplus
 #飞越彩虹
 DOMAIN,ch.feiyue.lol
 
-    
-#HeiSi
-DOMAIN,i109.com
-
-#土拨鼠
-DOMAIN,v.20120714.xyz
-DOMAIN,if.20120714.xyz  //infuse专用
 
 #ntr
 DOMAIN,stream.synn.cc
@@ -67,12 +60,12 @@ DOMAIN,tanhuatv.site
 
 #猫影
 DOMAIN-SUFFIX,frre.me
-DOMAIN,cat-eye.top
+DOMAIN-SUFFIX,cat-eye.top
 
 #叔服
 DOMAIN,jz.mcjoker.xyz
 #BB
-DOMAIN,beebi.org
+DOMAIN-SUFFIX,beebi.org
 
 #zoxfree
 DOMAIN,zoxfree.3767483.xyz

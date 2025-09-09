@@ -19,4 +19,4 @@ IP-CIDR,188.172.228.65/32,DIRECT,no-resolve
 DOMAIN,emby1.zn.al
 
 #misaya
-DOMAIN,misaya.org
+DOMAIN-SUFFIx,misaya.org
