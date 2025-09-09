@@ -1,23 +1,20 @@
 # 手动规则: 以下规则优先级最高 不参与规则数量统计
-
-# Perplexity
-DOMAIN-SUFFIX,pplx.ai
-DOMAIN-SUFFIX,perplexity.ai
-DOMAIN-SUFFIX,perplexity.com
-
 # Copilot
+# Perplexity
 DOMAIN,api.githubcopilot.com
 DOMAIN,copilot-proxy.githubusercontent.com
 DOMAIN,copilot.microsoft.com
 DOMAIN,sydney.bing.com
 DOMAIN,www.bing.com
-
-DOMAIN-SUFFIX,itdog.cn
-DOMAIN-SUFFIX,i.imgur.com
 DOMAIN-SUFFIX,220322.best
+DOMAIN-SUFFIX,i.imgur.com
+DOMAIN-SUFFIX,itdog.cn
+DOMAIN-SUFFIX,perplexity.ai
+DOMAIN-SUFFIX,perplexity.com
+DOMAIN-SUFFIX,pplx.ai
 DOMAIN-SUFFIX,xzy
 
-# 更新时间: 2025/9/9 17:44:43
+# 更新时间: 2025/9/10 01:20:05
 # 规则数量：当前共 33 条规则
 
 DOMAIN-SUFFIX,alhapi.com
