@@ -1,58 +1,45 @@
 # 手动规则: 以下规则优先级最高 不参与规则数量统计
-# Copilot
+
 # Perplexity
+DOMAIN-SUFFIX,pplx.ai
+DOMAIN-SUFFIX,perplexity.ai
+DOMAIN-SUFFIX,perplexity.com
+
+# Copilot
 DOMAIN,api.githubcopilot.com
 DOMAIN,copilot-proxy.githubusercontent.com
 DOMAIN,copilot.microsoft.com
 DOMAIN,sydney.bing.com
 DOMAIN,www.bing.com
-DOMAIN-SUFFIX,220322.best
-DOMAIN-SUFFIX,i.imgur.com
+
 DOMAIN-SUFFIX,itdog.cn
-DOMAIN-SUFFIX,perplexity.ai
-DOMAIN-SUFFIX,perplexity.com
-DOMAIN-SUFFIX,pplx.ai
+DOMAIN-SUFFIX,i.imgur.com
+DOMAIN-SUFFIX,220322.best
 DOMAIN-SUFFIX,xzy
 
-# 更新时间: 2025/9/9 20:49:06
-# 规则数量：当前共 50 条规则
+# 更新时间: 2025/9/9 17:44:43
+# 规则数量：当前共 33 条规则
 
 DOMAIN-SUFFIX,alhapi.com
-DOMAIN-SUFFIX,amazon-adsystem.com
 DOMAIN-SUFFIX,anyun.org
-DOMAIN-SUFFIX,app-analytics-services.com
 DOMAIN-SUFFIX,browser-intake-datadoghq.com
-DOMAIN-SUFFIX,chinamobile.com
-DOMAIN-SUFFIX,cloudflare-dns.com
 DOMAIN-SUFFIX,cloudflareinsights.com
 DOMAIN-SUFFIX,connatix.com
 DOMAIN-SUFFIX,craft.do
-DOMAIN-SUFFIX,dns.google
-DOMAIN-SUFFIX,doubleclick-cn.net
 DOMAIN-SUFFIX,emby.media
 DOMAIN-SUFFIX,feednews.com
 DOMAIN-SUFFIX,gitter.im
-DOMAIN-SUFFIX,google-analytics.com
 DOMAIN-SUFFIX,hdhive.com
 DOMAIN-SUFFIX,him.plus
-DOMAIN-SUFFIX,hk
-DOMAIN-SUFFIX,hkspeedtest.com
 DOMAIN-SUFFIX,immersivetranslate.com
-DOMAIN-SUFFIX,kansuiun.com
-DOMAIN-SUFFIX,misaya.org
 DOMAIN-SUFFIX,nana520bin.baby
-DOMAIN-SUFFIX,netvigator.com
-DOMAIN-SUFFIX,nodeimage.com
 DOMAIN-SUFFIX,opera-api.com
 DOMAIN-SUFFIX,opera.software
 DOMAIN-SUFFIX,outbrainimg.com
 DOMAIN-SUFFIX,privacymanager.io
-DOMAIN-SUFFIX,quad9.net
 DOMAIN-SUFFIX,revenuecat.com
 DOMAIN-SUFFIX,singular.net
 DOMAIN-SUFFIX,smadex.com
-DOMAIN-SUFFIX,smartone.com
-DOMAIN-SUFFIX,speedtest.net
 DOMAIN-SUFFIX,sprig.com
 DOMAIN-SUFFIX,stayfork.app
 DOMAIN-SUFFIX,stripe.com
@@ -60,7 +47,6 @@ DOMAIN-SUFFIX,swiftgram.app
 DOMAIN-SUFFIX,telemetrydeck.com
 DOMAIN-SUFFIX,v2cross.com
 IP-CIDR,108.59.0.0/20
-IP-CIDR,140.245.96.0/19
 IP-CIDR,162.159.200.0/24
 IP-CIDR,17.253.116.0/23
 IP-CIDR,17.253.84.0/23
