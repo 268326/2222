@@ -1,8 +1,8 @@
 # 手动规则: 以下规则优先级最高 不参与规则数量统计
 DOMAIN-SUFFIX,xzy
 
-# 更新时间: 2025/9/9 04:53:43
-# 规则数量：当前共 26 条规则
+# 更新时间: 2025/9/9 13:29:29
+# 规则数量：当前共 28 条规则
 
 DOMAIN-SUFFIX,alhapi.com
 DOMAIN-SUFFIX,anyun.org
@@ -28,5 +28,7 @@ DOMAIN-SUFFIX,telemetrydeck.com
 DOMAIN-SUFFIX,v2cross.com
 IP-CIDR,108.59.0.0/20
 IP-CIDR,162.159.200.0/24
+IP-CIDR,17.253.84.0/23
 IP-CIDR,193.182.111.0/24
+IP-CIDR,43.135.64.0/18
 IP-CIDR,47.238.0.0/16
