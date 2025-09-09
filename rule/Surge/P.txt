@@ -14,11 +14,12 @@ DOMAIN-SUFFIX,perplexity.com
 DOMAIN-SUFFIX,pplx.ai
 DOMAIN-SUFFIX,xzy
 
-# 更新时间: 2025/9/10 01:20:05
-# 规则数量：当前共 33 条规则
+# 更新时间: 2025/9/10 03:45:25
+# 规则数量：当前共 35 条规则
 
 DOMAIN-SUFFIX,alhapi.com
 DOMAIN-SUFFIX,anyun.org
+DOMAIN-SUFFIX,bingling.cc
 DOMAIN-SUFFIX,browser-intake-datadoghq.com
 DOMAIN-SUFFIX,cloudflareinsights.com
 DOMAIN-SUFFIX,connatix.com
@@ -44,6 +45,7 @@ DOMAIN-SUFFIX,swiftgram.app
 DOMAIN-SUFFIX,telemetrydeck.com
 DOMAIN-SUFFIX,v2cross.com
 IP-CIDR,108.59.0.0/20
+IP-CIDR,140.245.0.0/19
 IP-CIDR,162.159.200.0/24
 IP-CIDR,17.253.116.0/23
 IP-CIDR,17.253.84.0/23
