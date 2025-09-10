@@ -12,12 +12,12 @@ DOMAIN-SUFFIX,itdog.cn
 DOMAIN-SUFFIX,perplexity.ai
 DOMAIN-SUFFIX,perplexity.com
 DOMAIN-SUFFIX,pplx.ai
-DOMAIN-SUFFIX,xzy
+DOMAIN-SUFFIX,xyz
+
 
 # 更新时间: 2025/9/10 16:56:23
 # 规则数量：当前共 41 条规则
 
-DOMAIN-SUFFIX,22112211.xyz
 DOMAIN-SUFFIX,alhapi.com
 DOMAIN-SUFFIX,anyun.org
 DOMAIN-SUFFIX,bingling.cc
