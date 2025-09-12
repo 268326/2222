@@ -14,28 +14,38 @@ DOMAIN-SUFFIX,perplexity.com
 DOMAIN-SUFFIX,pplx.ai
 DOMAIN-SUFFIX,xyz
 
-# 更新时间: 2025/9/11 15:08:09
-# 规则数量：当前共 48 条规则
+# 更新时间: 2025/9/12 15:24:16
+# 规则数量：当前共 63 条规则
 
 DOMAIN-SUFFIX,alhapi.com
 DOMAIN-SUFFIX,amplitude.com
 DOMAIN-SUFFIX,anyun.org
 DOMAIN-SUFFIX,appsflyer.com
+DOMAIN-SUFFIX,aralego.com
 DOMAIN-SUFFIX,awswaf.com
 DOMAIN-SUFFIX,bingling.cc
 DOMAIN-SUFFIX,browser-intake-datadoghq.com
 DOMAIN-SUFFIX,cloudflareinsights.com
 DOMAIN-SUFFIX,connatix.com
 DOMAIN-SUFFIX,craft.do
+DOMAIN-SUFFIX,criteo.com
+DOMAIN-SUFFIX,dandanplay.net
+DOMAIN-SUFFIX,dmhy.org
+DOMAIN-SUFFIX,dtscout.com
 DOMAIN-SUFFIX,emby.media
+DOMAIN-SUFFIX,embycc.link
+DOMAIN-SUFFIX,epicgames.com
 DOMAIN-SUFFIX,feednews.com
 DOMAIN-SUFFIX,gitter.im
 DOMAIN-SUFFIX,hdhive.com
 DOMAIN-SUFFIX,hdhive.online
 DOMAIN-SUFFIX,him.plus
+DOMAIN-SUFFIX,histats.com
 DOMAIN-SUFFIX,immersivetranslate.com
 DOMAIN-SUFFIX,nana520bin.baby
+DOMAIN-SUFFIX,ndmdhs.com
 DOMAIN-SUFFIX,nodeimage.com
+DOMAIN-SUFFIX,online_filelook_form
 DOMAIN-SUFFIX,opera-api.com
 DOMAIN-SUFFIX,opera.software
 DOMAIN-SUFFIX,outbrainimg.com
@@ -43,6 +53,8 @@ DOMAIN-SUFFIX,pp.ua
 DOMAIN-SUFFIX,privacymanager.io
 DOMAIN-SUFFIX,readdle.com
 DOMAIN-SUFFIX,revenuecat.com
+DOMAIN-SUFFIX,rinrin.top
+DOMAIN-SUFFIX,rubiconproject.com
 DOMAIN-SUFFIX,shuyz.com
 DOMAIN-SUFFIX,singular.net
 DOMAIN-SUFFIX,smadex.com
@@ -51,10 +63,13 @@ DOMAIN-SUFFIX,sprig.com
 DOMAIN-SUFFIX,stayfork.app
 DOMAIN-SUFFIX,streamlit.app
 DOMAIN-SUFFIX,stripe.com
+DOMAIN-SUFFIX,superwall.me
 DOMAIN-SUFFIX,swiftgram.app
+DOMAIN-SUFFIX,tangbai.cc
 DOMAIN-SUFFIX,telemetrydeck.com
 DOMAIN-SUFFIX,v2cross.com
 DOMAIN-SUFFIX,wcpush.top
+DOMAIN-SUFFIX,xboxab.com
 IP-CIDR,108.59.0.0/20
 IP-CIDR,140.245.0.0/19
 IP-CIDR,140.245.96.0/19
