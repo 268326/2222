@@ -14,8 +14,8 @@ DOMAIN-SUFFIX,perplexity.com
 DOMAIN-SUFFIX,pplx.ai
 DOMAIN-SUFFIX,xyz
 
-# 更新时间: 2025/9/12 15:24:16
-# 规则数量：当前共 63 条规则
+# 更新时间: 2025/9/14 00:50:09
+# 规则数量：当前共 67 条规则
 
 DOMAIN-SUFFIX,alhapi.com
 DOMAIN-SUFFIX,amplitude.com
@@ -36,6 +36,7 @@ DOMAIN-SUFFIX,emby.media
 DOMAIN-SUFFIX,embycc.link
 DOMAIN-SUFFIX,epicgames.com
 DOMAIN-SUFFIX,feednews.com
+DOMAIN-SUFFIX,filmnoir.app
 DOMAIN-SUFFIX,gitter.im
 DOMAIN-SUFFIX,hdhive.com
 DOMAIN-SUFFIX,hdhive.online
@@ -45,10 +46,12 @@ DOMAIN-SUFFIX,immersivetranslate.com
 DOMAIN-SUFFIX,nana520bin.baby
 DOMAIN-SUFFIX,ndmdhs.com
 DOMAIN-SUFFIX,nodeimage.com
+DOMAIN-SUFFIX,onaudience.com
 DOMAIN-SUFFIX,online_filelook_form
 DOMAIN-SUFFIX,opera-api.com
 DOMAIN-SUFFIX,opera.software
 DOMAIN-SUFFIX,outbrainimg.com
+DOMAIN-SUFFIX,pan1.me
 DOMAIN-SUFFIX,pp.ua
 DOMAIN-SUFFIX,privacymanager.io
 DOMAIN-SUFFIX,readdle.com
@@ -78,5 +81,6 @@ IP-CIDR,17.253.116.0/23
 IP-CIDR,17.253.84.0/23
 IP-CIDR,181.215.6.0/24
 IP-CIDR,193.182.111.0/24
+IP-CIDR,20.40.0.0/13
 IP-CIDR,43.135.64.0/18
 IP-CIDR,47.238.0.0/16
