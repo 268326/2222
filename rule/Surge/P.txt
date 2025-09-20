@@ -14,8 +14,8 @@ DOMAIN-SUFFIX,perplexity.com
 DOMAIN-SUFFIX,pplx.ai
 DOMAIN-SUFFIX,xyz
 
-# 更新时间: 2025/9/18 02:56:46
-# 规则数量：当前共 85 条规则
+# 更新时间: 2025/9/20 15:21:53
+# 规则数量：当前共 89 条规则
 
 DOMAIN-SUFFIX,5t5.top
 DOMAIN-SUFFIX,69shuba.com
@@ -43,6 +43,7 @@ DOMAIN-SUFFIX,feednews.com
 DOMAIN-SUFFIX,filmnoir.app
 DOMAIN-SUFFIX,flycnb.tk
 DOMAIN-SUFFIX,gitter.im
+DOMAIN-SUFFIX,haimianxz.com
 DOMAIN-SUFFIX,hdhive.com
 DOMAIN-SUFFIX,hdhive.online
 DOMAIN-SUFFIX,him.plus
@@ -53,11 +54,14 @@ DOMAIN-SUFFIX,intercom.com
 DOMAIN-SUFFIX,intercom.io
 DOMAIN-SUFFIX,iva-api.com
 DOMAIN-SUFFIX,kromerefinds.cyou
+DOMAIN-SUFFIX,lazada.com
 DOMAIN-SUFFIX,lobbecalm.com
+DOMAIN-SUFFIX,mb3admin.com
 DOMAIN-SUFFIX,nana520bin.baby
 DOMAIN-SUFFIX,ndmdhs.com
 DOMAIN-SUFFIX,nodeimage.com
 DOMAIN-SUFFIX,notability.com
+DOMAIN-SUFFIX,nullbr.online
 DOMAIN-SUFFIX,onaudience.com
 DOMAIN-SUFFIX,online_filelook_form
 DOMAIN-SUFFIX,opera-api.com
