@@ -14,8 +14,8 @@ DOMAIN-SUFFIX,perplexity.com
 DOMAIN-SUFFIX,pplx.ai
 DOMAIN-SUFFIX,xyz
 
-# 更新时间: 2025/9/21 04:34:52
-# 规则数量：当前共 94 条规则
+# 更新时间: 2025/9/23 13:14:20
+# 规则数量：当前共 107 条规则
 
 DOMAIN-SUFFIX,5t5.top
 DOMAIN-SUFFIX,69shuba.com
@@ -28,6 +28,7 @@ DOMAIN-SUFFIX,appsflyer.com
 DOMAIN-SUFFIX,aralego.com
 DOMAIN-SUFFIX,awswaf.com
 DOMAIN-SUFFIX,bdurl.net
+DOMAIN-SUFFIX,bidberry.net
 DOMAIN-SUFFIX,bingling.cc
 DOMAIN-SUFFIX,browser-intake-datadoghq.com
 DOMAIN-SUFFIX,byted.org
@@ -36,6 +37,7 @@ DOMAIN-SUFFIX,cnfaster.com
 DOMAIN-SUFFIX,connatix.com
 DOMAIN-SUFFIX,craft.do
 DOMAIN-SUFFIX,criteo.com
+DOMAIN-SUFFIX,crwdcntrl.net
 DOMAIN-SUFFIX,dandanplay.net
 DOMAIN-SUFFIX,dmhy.org
 DOMAIN-SUFFIX,dtscout.com
@@ -45,12 +47,14 @@ DOMAIN-SUFFIX,epicgames.com
 DOMAIN-SUFFIX,feednews.com
 DOMAIN-SUFFIX,filmnoir.app
 DOMAIN-SUFFIX,flycnb.tk
+DOMAIN-SUFFIX,gepush.com
 DOMAIN-SUFFIX,gitter.im
 DOMAIN-SUFFIX,haimianxz.com
 DOMAIN-SUFFIX,hdhive.com
 DOMAIN-SUFFIX,hdhive.online
 DOMAIN-SUFFIX,him.plus
 DOMAIN-SUFFIX,histats.com
+DOMAIN-SUFFIX,hovervan.org
 DOMAIN-SUFFIX,img
 DOMAIN-SUFFIX,immersivetranslate.com
 DOMAIN-SUFFIX,intercom.com
@@ -61,6 +65,7 @@ DOMAIN-SUFFIX,kromerefinds.cyou
 DOMAIN-SUFFIX,lazada.com
 DOMAIN-SUFFIX,lobbecalm.com
 DOMAIN-SUFFIX,mb3admin.com
+DOMAIN-SUFFIX,mtaumc4wljiwmdo4ma
 DOMAIN-SUFFIX,nana520bin.baby
 DOMAIN-SUFFIX,ndmdhs.com
 DOMAIN-SUFFIX,nodeimage.com
@@ -97,17 +102,25 @@ DOMAIN-SUFFIX,swiftgram.app
 DOMAIN-SUFFIX,syyn.pw
 DOMAIN-SUFFIX,tangbai.cc
 DOMAIN-SUFFIX,telemetrydeck.com
+DOMAIN-SUFFIX,umeng.com
 DOMAIN-SUFFIX,v2cross.com
 DOMAIN-SUFFIX,wcpush.top
 DOMAIN-SUFFIX,xboxab.com
+DOMAIN-SUFFIX,zimuku.org
+IP-CIDR,103.46.230.0/24
 IP-CIDR,108.59.0.0/20
 IP-CIDR,140.245.0.0/19
 IP-CIDR,140.245.96.0/19
 IP-CIDR,162.159.200.0/24
+IP-CIDR,163.181.77.0/24
 IP-CIDR,17.253.116.0/23
 IP-CIDR,17.253.84.0/23
 IP-CIDR,181.215.6.0/24
 IP-CIDR,193.182.111.0/24
 IP-CIDR,20.40.0.0/13
+IP-CIDR,38.71.126.0/24
 IP-CIDR,43.135.64.0/18
 IP-CIDR,47.238.0.0/16
+IP-CIDR,52.8.0.0/16
+IP-CIDR,77.72.169.0/24
+IP-CIDR,98.96.212.0/22
