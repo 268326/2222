@@ -14,8 +14,8 @@ DOMAIN-SUFFIX,perplexity.com
 DOMAIN-SUFFIX,pplx.ai
 DOMAIN-SUFFIX,xyz
 
-# 更新时间: 2025/10/2 09:44:45
-# 规则数量：当前共 125 条规则
+# 更新时间: 2025/10/2 09:45:37
+# 规则数量：当前共 128 条规则
 
 DOMAIN-SUFFIX,5t5.top
 DOMAIN-SUFFIX,69shuba.com
@@ -56,6 +56,7 @@ DOMAIN-SUFFIX,hdhive.com
 DOMAIN-SUFFIX,hdhive.online
 DOMAIN-SUFFIX,him.plus
 DOMAIN-SUFFIX,histats.com
+DOMAIN-SUFFIX,hlwy2025.me
 DOMAIN-SUFFIX,hovervan.org
 DOMAIN-SUFFIX,img
 DOMAIN-SUFFIX,immersivetranslate.com
@@ -68,7 +69,6 @@ DOMAIN-SUFFIX,lazada.com
 DOMAIN-SUFFIX,lobbecalm.com
 DOMAIN-SUFFIX,lorca.app
 DOMAIN-SUFFIX,mb3admin.com
-DOMAIN-SUFFIX,meituan.comundefined
 DOMAIN-SUFFIX,mikanani.me
 DOMAIN-SUFFIX,mtaumc4wljiwmdo4ma
 DOMAIN-SUFFIX,nana520bin.baby
@@ -90,6 +90,7 @@ DOMAIN-SUFFIX,readdle.com
 DOMAIN-SUFFIX,revenuecat.com
 DOMAIN-SUFFIX,rinrin.top
 DOMAIN-SUFFIX,rubiconproject.com
+DOMAIN-SUFFIX,scibug.com
 DOMAIN-SUFFIX,scrolarlutes.help
 DOMAIN-SUFFIX,seeds.services
 DOMAIN-SUFFIX,shuyz.com
@@ -109,6 +110,7 @@ DOMAIN-SUFFIX,swiftgram.app
 DOMAIN-SUFFIX,syyn.pw
 DOMAIN-SUFFIX,tangbai.cc
 DOMAIN-SUFFIX,telemetrydeck.com
+DOMAIN-SUFFIX,tjj.com
 DOMAIN-SUFFIX,umeng.com
 DOMAIN-SUFFIX,v2cross.com
 DOMAIN-SUFFIX,wcpush.top
