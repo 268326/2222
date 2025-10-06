@@ -14,9 +14,10 @@ DOMAIN-SUFFIX,perplexity.com
 DOMAIN-SUFFIX,pplx.ai
 DOMAIN-SUFFIX,xyz
 
-# 更新时间: 2025/10/3 22:17:43
-# 规则数量：当前共 131 条规则
+# 更新时间: 2025/10/7 00:07:04
+# 规则数量：当前共 135 条规则
 
+DOMAIN-SUFFIX,47bt.com
 DOMAIN-SUFFIX,5t5.top
 DOMAIN-SUFFIX,69shuba.com
 DOMAIN-SUFFIX,6sc.co
@@ -86,10 +87,12 @@ DOMAIN-SUFFIX,opera.software
 DOMAIN-SUFFIX,outbrainimg.com
 DOMAIN-SUFFIX,owhealth.com
 DOMAIN-SUFFIX,pan1.me
+DOMAIN-SUFFIX,posthog.com
 DOMAIN-SUFFIX,pp.ua
 DOMAIN-SUFFIX,privacymanager.io
 DOMAIN-SUFFIX,rapidssl.com
 DOMAIN-SUFFIX,readdle.com
+DOMAIN-SUFFIX,redgifs.com
 DOMAIN-SUFFIX,revenuecat.com
 DOMAIN-SUFFIX,rinrin.top
 DOMAIN-SUFFIX,rubiconproject.com
@@ -131,6 +134,7 @@ IP-CIDR,140.245.96.0/19
 IP-CIDR,155.102.4.0/24
 IP-CIDR,162.159.200.0/24
 IP-CIDR,163.181.199.0/24
+IP-CIDR,163.181.228.0/24
 IP-CIDR,163.181.35.0/24
 IP-CIDR,163.181.77.0/24
 IP-CIDR,17.253.116.0/23
