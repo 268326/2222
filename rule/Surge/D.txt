@@ -7,3 +7,4 @@
 DOMAIN-SUFFIX,cn
 DOMAIN-SUFFIX,meituan.comundefined
 IP-CIDR,114.94.0.0/16
+DOMAIN,de.220322.best
