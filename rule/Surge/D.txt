@@ -1,10 +1,10 @@
 # 手动规则: 以下规则优先级最高 不参与规则数量统计
 
 
-# 更新时间: 2025/10/8 01:48:53
-# 规则数量：当前共 3 条规则
+# 更新时间: 2025/10/10 03:39:46
+# 规则数量：当前共 4 条规则
 
+DOMAIN,de.220322.best
 DOMAIN-SUFFIX,cn
 DOMAIN-SUFFIX,meituan.comundefined
 IP-CIDR,114.94.0.0/16
-DOMAIN,de.220322.best
