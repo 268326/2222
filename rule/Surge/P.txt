@@ -14,8 +14,8 @@ DOMAIN-SUFFIX,perplexity.com
 DOMAIN-SUFFIX,pplx.ai
 DOMAIN-SUFFIX,xyz
 
-# 更新时间: 2025/10/10 03:39:46
-# 规则数量：当前共 163 条规则
+# 更新时间: 2025/10/15 16:10:02
+# 规则数量：当前共 193 条规则
 
 DOMAIN-SUFFIX,47bt.com
 DOMAIN-SUFFIX,5t5.top
@@ -23,26 +23,34 @@ DOMAIN-SUFFIX,69shuba.com
 DOMAIN-SUFFIX,6sc.co
 DOMAIN-SUFFIX,90dao.com
 DOMAIN-SUFFIX,aca.best
+DOMAIN-SUFFIX,acgrip.com
 DOMAIN-SUFFIX,adjust.com
 DOMAIN-SUFFIX,adsmoloco.com
 DOMAIN-SUFFIX,alhapi.com
 DOMAIN-SUFFIX,alibabacloud.com
 DOMAIN-SUFFIX,alicenetworks.net
+DOMAIN-SUFFIX,aliceservice.net
+DOMAIN-SUFFIX,altstore.io
 DOMAIN-SUFFIX,amemv.com
 DOMAIN-SUFFIX,amplitude.com
 DOMAIN-SUFFIX,anyun.org
+DOMAIN-SUFFIX,appinn.net
+DOMAIN-SUFFIX,appraven.net
 DOMAIN-SUFFIX,appsflyer.com
+DOMAIN-SUFFIX,apptesters.org
 DOMAIN-SUFFIX,aralego.com
 DOMAIN-SUFFIX,awswaf.com
 DOMAIN-SUFFIX,bdurl.net
 DOMAIN-SUFFIX,bidberry.net
 DOMAIN-SUFFIX,bingling.cc
 DOMAIN-SUFFIX,browser-intake-datadoghq.com
+DOMAIN-SUFFIX,bundleassets.example
 DOMAIN-SUFFIX,byted.org
 DOMAIN-SUFFIX,cloudflareinsights.com
 DOMAIN-SUFFIX,cnfaster.com
 DOMAIN-SUFFIX,connatix.com
 DOMAIN-SUFFIX,contentsquare.net
+DOMAIN-SUFFIX,coverartarchive.org
 DOMAIN-SUFFIX,craft.do
 DOMAIN-SUFFIX,criteo.com
 DOMAIN-SUFFIX,crwdcntrl.net
@@ -52,6 +60,7 @@ DOMAIN-SUFFIX,darkreader.org
 DOMAIN-SUFFIX,deepflood.com
 DOMAIN-SUFFIX,deno.dev
 DOMAIN-SUFFIX,dmhy.org
+DOMAIN-SUFFIX,dnsdizhi.com
 DOMAIN-SUFFIX,dtscout.com
 DOMAIN-SUFFIX,emby.media
 DOMAIN-SUFFIX,embycc.link
@@ -59,9 +68,13 @@ DOMAIN-SUFFIX,epicgames.com
 DOMAIN-SUFFIX,feednews.com
 DOMAIN-SUFFIX,filmnoir.app
 DOMAIN-SUFFIX,flycnb.tk
+DOMAIN-SUFFIX,forge.com
 DOMAIN-SUFFIX,gamepass.com
 DOMAIN-SUFFIX,gepush.com
+DOMAIN-SUFFIX,getnoir.app
 DOMAIN-SUFFIX,gitter.im
+DOMAIN-SUFFIX,gopeed.com
+DOMAIN-SUFFIX,gpteng.co
 DOMAIN-SUFFIX,haimianxz.com
 DOMAIN-SUFFIX,hdhive.com
 DOMAIN-SUFFIX,hdhive.online
@@ -70,6 +83,8 @@ DOMAIN-SUFFIX,histats.com
 DOMAIN-SUFFIX,hlwy2025.me
 DOMAIN-SUFFIX,hovervan.org
 DOMAIN-SUFFIX,idcflare.com
+DOMAIN-SUFFIX,iij.li
+DOMAIN-SUFFIX,iios.fun
 DOMAIN-SUFFIX,img
 DOMAIN-SUFFIX,immersivetranslate.com
 DOMAIN-SUFFIX,intercom.com
@@ -79,7 +94,10 @@ DOMAIN-SUFFIX,ip-api.com
 DOMAIN-SUFFIX,iturrit.com
 DOMAIN-SUFFIX,iva-api.com
 DOMAIN-SUFFIX,kromerefinds.cyou
+DOMAIN-SUFFIX,kxy.ovh
 DOMAIN-SUFFIX,lazada.com
+DOMAIN-SUFFIX,lingogram.app
+DOMAIN-SUFFIX,listenbrainz.org
 DOMAIN-SUFFIX,lobbecalm.com
 DOMAIN-SUFFIX,logcg.com
 DOMAIN-SUFFIX,lorca.app
@@ -96,13 +114,16 @@ DOMAIN-SUFFIX,nezha.wiki
 DOMAIN-SUFFIX,nodeimage.com
 DOMAIN-SUFFIX,notability.com
 DOMAIN-SUFFIX,nullbr.online
+DOMAIN-SUFFIX,omiapps.com
 DOMAIN-SUFFIX,onaudience.com
+DOMAIN-SUFFIX,onetrust.com
 DOMAIN-SUFFIX,online_filelook_form
 DOMAIN-SUFFIX,opera-api.com
 DOMAIN-SUFFIX,opera.software
 DOMAIN-SUFFIX,outbrainimg.com
 DOMAIN-SUFFIX,owhealth.com
 DOMAIN-SUFFIX,pan1.me
+DOMAIN-SUFFIX,polyfill.io
 DOMAIN-SUFFIX,posthog.com
 DOMAIN-SUFFIX,pp.ua
 DOMAIN-SUFFIX,privacymanager.io
@@ -121,6 +142,7 @@ DOMAIN-SUFFIX,scrolarlutes.help
 DOMAIN-SUFFIX,seeds.services
 DOMAIN-SUFFIX,shuyz.com
 DOMAIN-SUFFIX,singular.net
+DOMAIN-SUFFIX,siomxity.net
 DOMAIN-SUFFIX,slpmods.net
 DOMAIN-SUFFIX,smadex.com
 DOMAIN-SUFFIX,smartont.net
@@ -138,25 +160,32 @@ DOMAIN-SUFFIX,symedia.top
 DOMAIN-SUFFIX,syyn.pw
 DOMAIN-SUFFIX,tampermonkey.net
 DOMAIN-SUFFIX,tangbai.cc
+DOMAIN-SUFFIX,tavily.com
+DOMAIN-SUFFIX,tbsite.net
 DOMAIN-SUFFIX,telemetrydeck.com
 DOMAIN-SUFFIX,tjj.com
 DOMAIN-SUFFIX,trustarc.com
+DOMAIN-SUFFIX,ukzs.net
 DOMAIN-SUFFIX,umeng.com
 DOMAIN-SUFFIX,v2cross.com
 DOMAIN-SUFFIX,viplee.cc
 DOMAIN-SUFFIX,wcpush.top
+DOMAIN-SUFFIX,workingcopy.app
 DOMAIN-SUFFIX,xboxab.com
 DOMAIN-SUFFIX,zimuku.org
 DOMAIN-SUFFIX,zoominfo.com
 IP-CIDR,101.47.85.0/24
 IP-CIDR,103.186.118.0/24
 IP-CIDR,103.46.230.0/24
+IP-CIDR,107.155.0.0/18
 IP-CIDR,108.59.0.0/20
 IP-CIDR,13.228.0.0/15
 IP-CIDR,139.177.246.0/24
 IP-CIDR,140.238.240.0/20
 IP-CIDR,140.245.0.0/19
 IP-CIDR,140.245.96.0/19
+IP-CIDR,146.19.216.0/24
+IP-CIDR,15.184.0.0/16
 IP-CIDR,155.102.4.0/24
 IP-CIDR,160.25.135.0/24
 IP-CIDR,162.159.200.0/24
@@ -172,6 +201,7 @@ IP-CIDR,18.166.0.0/15
 IP-CIDR,181.215.6.0/24
 IP-CIDR,193.182.111.0/24
 IP-CIDR,20.40.0.0/13
+IP-CIDR,209.58.184.0/23
 IP-CIDR,38.71.126.0/24
 IP-CIDR,43.135.64.0/18
 IP-CIDR,47.238.0.0/16
