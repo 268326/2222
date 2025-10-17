@@ -14,9 +14,12 @@ DOMAIN-SUFFIX,perplexity.com
 DOMAIN-SUFFIX,pplx.ai
 DOMAIN-SUFFIX,xyz
 
-# 更新时间: 2025/10/15 16:10:02
-# 规则数量：当前共 193 条规则
+# 更新时间: 2025/10/17 16:51:55
+# 规则数量：当前共 203 条规则
 
+DOMAIN-SUFFIX,123.com
+DOMAIN-SUFFIX,123panfx.com
+DOMAIN-SUFFIX,2222.moe
 DOMAIN-SUFFIX,47bt.com
 DOMAIN-SUFFIX,5t5.top
 DOMAIN-SUFFIX,69shuba.com
@@ -67,6 +70,7 @@ DOMAIN-SUFFIX,embycc.link
 DOMAIN-SUFFIX,epicgames.com
 DOMAIN-SUFFIX,feednews.com
 DOMAIN-SUFFIX,filmnoir.app
+DOMAIN-SUFFIX,firecore.com
 DOMAIN-SUFFIX,flycnb.tk
 DOMAIN-SUFFIX,forge.com
 DOMAIN-SUFFIX,gamepass.com
@@ -98,6 +102,7 @@ DOMAIN-SUFFIX,kxy.ovh
 DOMAIN-SUFFIX,lazada.com
 DOMAIN-SUFFIX,lingogram.app
 DOMAIN-SUFFIX,listenbrainz.org
+DOMAIN-SUFFIX,livecodes.vip
 DOMAIN-SUFFIX,lobbecalm.com
 DOMAIN-SUFFIX,logcg.com
 DOMAIN-SUFFIX,lorca.app
@@ -113,7 +118,9 @@ DOMAIN-SUFFIX,ndmdhs.com
 DOMAIN-SUFFIX,nezha.wiki
 DOMAIN-SUFFIX,nodeimage.com
 DOMAIN-SUFFIX,notability.com
+DOMAIN-SUFFIX,nplayer.com
 DOMAIN-SUFFIX,nullbr.online
+DOMAIN-SUFFIX,okaapps.com
 DOMAIN-SUFFIX,omiapps.com
 DOMAIN-SUFFIX,onaudience.com
 DOMAIN-SUFFIX,onetrust.com
@@ -135,6 +142,7 @@ DOMAIN-SUFFIX,redgifs.com
 DOMAIN-SUFFIX,releasenotes.io
 DOMAIN-SUFFIX,revenuecat.com
 DOMAIN-SUFFIX,rinrin.top
+DOMAIN-SUFFIX,rp
 DOMAIN-SUFFIX,rubiconproject.com
 DOMAIN-SUFFIX,rxios.top
 DOMAIN-SUFFIX,scibug.com
@@ -172,6 +180,7 @@ DOMAIN-SUFFIX,viplee.cc
 DOMAIN-SUFFIX,wcpush.top
 DOMAIN-SUFFIX,workingcopy.app
 DOMAIN-SUFFIX,xboxab.com
+DOMAIN-SUFFIX,zhaohe.org
 DOMAIN-SUFFIX,zimuku.org
 DOMAIN-SUFFIX,zoominfo.com
 IP-CIDR,101.47.85.0/24
@@ -179,6 +188,7 @@ IP-CIDR,103.186.118.0/24
 IP-CIDR,103.46.230.0/24
 IP-CIDR,107.155.0.0/18
 IP-CIDR,108.59.0.0/20
+IP-CIDR,129.250.0.0/16
 IP-CIDR,13.228.0.0/15
 IP-CIDR,139.177.246.0/24
 IP-CIDR,140.238.240.0/20
