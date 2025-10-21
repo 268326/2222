@@ -4,7 +4,6 @@
 # 更新时间: 2025/10/21 14:54:24
 # 规则数量：当前共 7 条规则
 
-DOMAIN,cd.220322.best
 DOMAIN,de.220322.best
 DOMAIN-SUFFIX,cn
 DOMAIN-SUFFIX,meituan.comundefined
