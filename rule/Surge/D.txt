@@ -5,6 +5,9 @@
 # 规则数量：当前共 4 条规则
 
 DOMAIN,de.220322.best
+DOMAIN,cd.220322.best
 DOMAIN-SUFFIX,cn
 DOMAIN-SUFFIX,meituan.comundefined
 IP-CIDR,114.94.0.0/16
+IP-CIDR,8.137.8.172/32
+IP-CIDR,47.238.87.106/32
