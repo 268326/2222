@@ -14,8 +14,8 @@ DOMAIN-SUFFIX,perplexity.com
 DOMAIN-SUFFIX,pplx.ai
 DOMAIN-SUFFIX,xyz
 
-# 更新时间: 2025/10/17 16:51:55
-# 规则数量：当前共 203 条规则
+# 更新时间: 2025/10/21 14:54:24
+# 规则数量：当前共 209 条规则
 
 DOMAIN-SUFFIX,123.com
 DOMAIN-SUFFIX,123panfx.com
@@ -44,11 +44,13 @@ DOMAIN-SUFFIX,apptesters.org
 DOMAIN-SUFFIX,aralego.com
 DOMAIN-SUFFIX,awswaf.com
 DOMAIN-SUFFIX,bdurl.net
+DOMAIN-SUFFIX,bh8.ga
 DOMAIN-SUFFIX,bidberry.net
 DOMAIN-SUFFIX,bingling.cc
 DOMAIN-SUFFIX,browser-intake-datadoghq.com
 DOMAIN-SUFFIX,bundleassets.example
 DOMAIN-SUFFIX,byted.org
+DOMAIN-SUFFIX,cloudflare.dev
 DOMAIN-SUFFIX,cloudflareinsights.com
 DOMAIN-SUFFIX,cnfaster.com
 DOMAIN-SUFFIX,connatix.com
@@ -61,6 +63,7 @@ DOMAIN-SUFFIX,dandanplay.net
 DOMAIN-SUFFIX,darkreader.app
 DOMAIN-SUFFIX,darkreader.org
 DOMAIN-SUFFIX,deepflood.com
+DOMAIN-SUFFIX,deepwiki.com
 DOMAIN-SUFFIX,deno.dev
 DOMAIN-SUFFIX,dmhy.org
 DOMAIN-SUFFIX,dnsdizhi.com
@@ -95,6 +98,7 @@ DOMAIN-SUFFIX,intercom.com
 DOMAIN-SUFFIX,intercom.io
 DOMAIN-SUFFIX,ioskuka.com
 DOMAIN-SUFFIX,ip-api.com
+DOMAIN-SUFFIX,itch.io
 DOMAIN-SUFFIX,iturrit.com
 DOMAIN-SUFFIX,iva-api.com
 DOMAIN-SUFFIX,kromerefinds.cyou
@@ -124,6 +128,7 @@ DOMAIN-SUFFIX,okaapps.com
 DOMAIN-SUFFIX,omiapps.com
 DOMAIN-SUFFIX,onaudience.com
 DOMAIN-SUFFIX,onetrust.com
+DOMAIN-SUFFIX,online-metrix.net
 DOMAIN-SUFFIX,online_filelook_form
 DOMAIN-SUFFIX,opera-api.com
 DOMAIN-SUFFIX,opera.software
@@ -137,6 +142,7 @@ DOMAIN-SUFFIX,privacymanager.io
 DOMAIN-SUFFIX,qualified.com
 DOMAIN-SUFFIX,quantumult.app
 DOMAIN-SUFFIX,rapidssl.com
+DOMAIN-SUFFIX,rc-backup.com
 DOMAIN-SUFFIX,readdle.com
 DOMAIN-SUFFIX,redgifs.com
 DOMAIN-SUFFIX,releasenotes.io
